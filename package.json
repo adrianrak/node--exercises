@@ -1,0 +1,28 @@
+{
+  "name": "file_system",
+  "version": "1.0.0",
+  "description": "kodilla file system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adrianrak/node--exercises.git"
+  },
+  "keywords": [
+    "node",
+    "npm"
+  ],
+  "author": "Adrian Rak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adrianrak/node--exercises/issues"
+  },
+  "homepage": "https://github.com/adrianrak/node--exercises#readme",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "stat-mode": "^0.2.2"
+  }
+}
