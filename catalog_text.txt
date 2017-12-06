@@ -1,1 +1,3 @@
-catalog: catalog.txt,loremIpsum.txt
+catalog: 
+1. catalog.txt,
+2. loremIpsum.txt
